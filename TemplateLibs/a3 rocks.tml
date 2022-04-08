@@ -1,0 +1,2247 @@
+<?xml version="1.0" ?>
+<Library name="a3 rocks" shape="elipse" default_fill="-8355712" default_outline="-16777216" tex="0">
+    <Template>
+        <Name>bluntrock_apart</Name>
+        <File>a3\rocks_f\blunt\bluntrock_apart.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1788414699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.497351</BBRadius>
+        <BBHScale>0.919811</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.329925</Height>
+        <BoundingMin X="-6.385226" Y="-1.816520" Z="-5.769159" />
+        <BoundingMax X="5.567440" Y="6.843330" Z="7.225542" />
+        <BoundingCenter X="-0.408893" Y="2.513405" Z="0.728191" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntrock_monolith</Name>
+        <File>a3\rocks_f\blunt\bluntrock_monolith.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1255718435</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.585110</BBRadius>
+        <BBHScale>0.596360</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>10.027165</Height>
+        <BoundingMin X="-8.773643" Y="-3.107521" Z="-11.903412" />
+        <BoundingMax X="7.429581" Y="16.946810" Z="15.266808" />
+        <BoundingCenter X="-0.672031" Y="6.919644" Z="1.681698" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntrock_spike</Name>
+        <File>a3\rocks_f\blunt\bluntrock_spike.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>891368253</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.488806</BBRadius>
+        <BBHScale>0.847717</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>12.765789</Height>
+        <BoundingMin X="-9.964300" Y="-5.925688" Z="-12.172501" />
+        <BoundingMax X="9.514212" Y="19.605890" Z="10.805111" />
+        <BoundingCenter X="-0.225044" Y="6.840101" Z="-0.683695" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntrock_wallh</Name>
+        <File>a3\rocks_f\blunt\bluntrock_wallh.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1939365163</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.073792</BBRadius>
+        <BBHScale>0.373219</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.285883</Height>
+        <BoundingMin X="-14.344601" Y="-4.759473" Z="-32.322617" />
+        <BoundingMax X="11.835815" Y="23.812292" Z="37.824966" />
+        <BoundingCenter X="-1.254393" Y="9.526409" Z="2.751175" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntrock_wallv</Name>
+        <File>a3\rocks_f\blunt\bluntrock_wallv.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1939365149</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.094915</BBRadius>
+        <BBHScale>0.932803</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>34.058952</Height>
+        <BoundingMin X="-20.104935" Y="-13.025740" Z="-19.996792" />
+        <BoundingMax X="19.249878" Y="55.092163" Z="22.193039" />
+        <BoundingCenter X="-0.427528" Y="21.033211" Z="1.098124" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstones_erosion</Name>
+        <File>a3\rocks_f\blunt\bluntstones_erosion.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1425307127</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.268963</BBRadius>
+        <BBHScale>0.909727</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.723210</Height>
+        <BoundingMin X="-3.911824" Y="-0.784431" Z="-4.367854" />
+        <BoundingMax X="3.855361" Y="0.661990" Z="4.170072" />
+        <BoundingCenter X="-0.028232" Y="-0.061220" Z="-0.098891" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstone_01</Name>
+        <File>a3\rocks_f\blunt\bluntstone_01.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>904040108</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.494996</BBRadius>
+        <BBHScale>0.790999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.809892</Height>
+        <BoundingMin X="-1.038066" Y="-0.583279" Z="-0.835263" />
+        <BoundingMax X="1.327014" Y="1.036506" Z="2.154729" />
+        <BoundingCenter X="0.144474" Y="0.226614" Z="0.659733" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstone_01_lc</Name>
+        <File>a3\rocks_f\blunt\bluntstone_01_lc.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>221253162</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.494996</BBRadius>
+        <BBHScale>0.790999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.809892</Height>
+        <BoundingMin X="-1.038066" Y="-0.583279" Z="-0.835263" />
+        <BoundingMax X="1.327014" Y="1.036506" Z="2.154729" />
+        <BoundingCenter X="0.144474" Y="0.226614" Z="0.659733" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstone_02</Name>
+        <File>a3\rocks_f\blunt\bluntstone_02.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>904040109</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.366575</BBRadius>
+        <BBHScale>1.390946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.054502</Height>
+        <BoundingMin X="-2.449488" Y="-0.665579" Z="-1.234246" />
+        <BoundingMax X="1.352178" Y="1.443426" Z="1.498905" />
+        <BoundingCenter X="-0.548655" Y="0.388923" Z="0.132330" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstone_02_lc</Name>
+        <File>a3\rocks_f\blunt\bluntstone_02_lc.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1001840361</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.366575</BBRadius>
+        <BBHScale>1.390946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.054502</Height>
+        <BoundingMin X="-2.449488" Y="-0.665579" Z="-1.234246" />
+        <BoundingMax X="1.352178" Y="1.443426" Z="1.498905" />
+        <BoundingCenter X="-0.548655" Y="0.388923" Z="0.132330" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstone_03</Name>
+        <File>a3\rocks_f\blunt\bluntstone_03.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>904040110</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.895301</BBRadius>
+        <BBHScale>0.729924</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.984293</Height>
+        <BoundingMin X="-0.570553" Y="-0.740071" Z="-0.666926" />
+        <BoundingMax X="0.736450" Y="1.228514" Z="1.123676" />
+        <BoundingCenter X="0.082949" Y="0.244222" Z="0.228375" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bluntstone_03_lc</Name>
+        <File>a3\rocks_f\blunt\bluntstone_03_lc.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1782427560</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.895301</BBRadius>
+        <BBHScale>0.729924</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.984293</Height>
+        <BoundingMin X="-0.570553" Y="-0.740071" Z="-0.666926" />
+        <BoundingMax X="0.736450" Y="1.228514" Z="1.123676" />
+        <BoundingCenter X="0.082949" Y="0.244222" Z="0.228375" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_apart</Name>
+        <File>a3\rocks_f\sharp\sharprock_apart.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1656503452</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.844786</BBRadius>
+        <BBHScale>0.907119</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.574294</Height>
+        <BoundingMin X="-6.840096" Y="-1.985963" Z="-6.200741" />
+        <BoundingMax X="5.577975" Y="7.162625" Z="7.488831" />
+        <BoundingCenter X="-0.631061" Y="2.588331" Z="0.644045" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_monolith</Name>
+        <File>a3\rocks_f\sharp\sharprock_monolith.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2051066844</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.309528</BBRadius>
+        <BBHScale>0.597076</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>9.954974</Height>
+        <BoundingMin X="-9.172892" Y="-3.145096" Z="-12.637444" />
+        <BoundingMax X="7.914864" Y="16.764853" Z="15.981613" />
+        <BoundingCenter X="-0.629014" Y="6.809878" Z="1.672085" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_spike</Name>
+        <File>a3\rocks_f\sharp\sharprock_spike.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1741417398</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.904118</BBRadius>
+        <BBHScale>0.868442</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.189951</Height>
+        <BoundingMin X="-10.981716" Y="-7.093503" Z="-12.682028" />
+        <BoundingMax X="9.694351" Y="21.286400" Z="11.126207" />
+        <BoundingCenter X="-0.643682" Y="7.096448" Z="-0.777910" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_wallh</Name>
+        <File>a3\rocks_f\sharp\sharprock_wallh.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1089316018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.454536</BBRadius>
+        <BBHScale>0.370523</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.735138</Height>
+        <BoundingMin X="-14.284320" Y="-4.849334" Z="-32.068977" />
+        <BoundingMax X="11.989144" Y="24.620943" Z="38.840096" />
+        <BoundingCenter X="-1.147588" Y="9.885805" Z="3.385559" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_wallv</Name>
+        <File>a3\rocks_f\sharp\sharprock_wallv.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1089316004</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.198587</BBRadius>
+        <BBHScale>1.010777</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>40.307285</Height>
+        <BoundingMin X="-20.736916" Y="-18.587265" Z="-20.517220" />
+        <BoundingMax X="22.117184" Y="62.027306" Z="21.879955" />
+        <BoundingCenter X="0.690134" Y="21.720020" Z="0.681368" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstones_erosion</Name>
+        <File>a3\rocks_f\sharp\sharpstones_erosion.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1667230352</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.370241</BBRadius>
+        <BBHScale>0.904993</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.720391</Height>
+        <BoundingMin X="-4.020723" Y="-0.728857" Z="-4.409714" />
+        <BoundingMax X="3.889352" Y="0.711926" Z="4.330769" />
+        <BoundingCenter X="-0.065686" Y="-0.008466" Z="-0.039473" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_01</Name>
+        <File>a3\rocks_f\sharp\sharpstone_01.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193082277</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.595682</BBRadius>
+        <BBHScale>0.920864</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.075028</Height>
+        <BoundingMin X="-1.225511" Y="-0.743152" Z="-1.043213" />
+        <BoundingMax X="1.713302" Y="1.406904" Z="2.148152" />
+        <BoundingCenter X="0.243895" Y="0.331876" Z="0.552469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_01_lc</Name>
+        <File>a3\rocks_f\sharp\sharpstone_01_lc.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1034712049</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.595682</BBRadius>
+        <BBHScale>0.920864</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.075028</Height>
+        <BoundingMin X="-1.225511" Y="-0.743152" Z="-1.043213" />
+        <BoundingMax X="1.713302" Y="1.406904" Z="2.148152" />
+        <BoundingCenter X="0.243895" Y="0.331876" Z="0.552469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_02</Name>
+        <File>a3\rocks_f\sharp\sharpstone_02.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193082278</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.785421</BBRadius>
+        <BBHScale>1.109286</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.408535</Height>
+        <BoundingMin X="-2.445257" Y="-1.166168" Z="-1.608428" />
+        <BoundingMax X="1.515830" Y="1.650902" Z="1.962414" />
+        <BoundingCenter X="-0.464714" Y="0.242367" Z="0.176993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_02_lc</Name>
+        <File>a3\rocks_f\sharp\sharpstone_02_lc.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1815299248</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.785421</BBRadius>
+        <BBHScale>1.109286</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.408535</Height>
+        <BoundingMin X="-2.445257" Y="-1.166168" Z="-1.608428" />
+        <BoundingMax X="1.515830" Y="1.650902" Z="1.962414" />
+        <BoundingCenter X="-0.464714" Y="0.242367" Z="0.176993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_03</Name>
+        <File>a3\rocks_f\sharp\sharpstone_03.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193082279</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.883351</BBRadius>
+        <BBHScale>1.022715</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.009717</Height>
+        <BoundingMin X="-0.863822" Y="-0.852612" Z="-0.496927" />
+        <BoundingMax X="0.943011" Y="1.166823" Z="1.269776" />
+        <BoundingCenter X="0.039594" Y="0.157106" Z="0.386425" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_03_lc</Name>
+        <File>a3\rocks_f\sharp\sharpstone_03_lc.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1699080849</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.883351</BBRadius>
+        <BBHScale>1.022715</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.009717</Height>
+        <BoundingMin X="-0.863822" Y="-0.852612" Z="-0.496927" />
+        <BoundingMax X="0.943011" Y="1.166823" Z="1.269776" />
+        <BoundingCenter X="0.039594" Y="0.157106" Z="0.386425" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_big_w</Name>
+        <File>a3\rocks_f\water\stonesharp_big_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-504631906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.429620</BBRadius>
+        <BBHScale>1.122866</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.058510</Height>
+        <BoundingMin X="-8.442941" Y="-6.616670" Z="-7.252620" />
+        <BoundingMax X="8.242000" Y="7.500350" Z="7.606620" />
+        <BoundingCenter X="-0.100471" Y="0.441840" Z="0.177000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_medium_w</Name>
+        <File>a3\rocks_f\water\stonesharp_medium_w.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-342477657</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.267979</BBRadius>
+        <BBHScale>0.949997</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.804823</Height>
+        <BoundingMin X="-5.181588" Y="-3.829628" Z="-5.383751" />
+        <BoundingMax X="4.827544" Y="7.780019" Z="5.152206" />
+        <BoundingCenter X="-0.177022" Y="1.975196" Z="-0.115772" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_small_w</Name>
+        <File>a3\rocks_f\water\stonesharp_small_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-262068443</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.963655</BBRadius>
+        <BBHScale>1.161372</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.392524</Height>
+        <BoundingMin X="-5.294690" Y="-2.348774" Z="-3.975560" />
+        <BoundingMax X="3.911865" Y="2.436273" Z="3.951749" />
+        <BoundingCenter X="-0.691412" Y="0.043749" Z="-0.011905" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_wall_w</Name>
+        <File>a3\rocks_f\water\stonesharp_wall_w.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>668947420</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.478899</BBRadius>
+        <BBHScale>2.060480</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.244663</Height>
+        <BoundingMin X="-13.340466" Y="-7.252077" Z="-6.487039" />
+        <BoundingMax X="13.358822" Y="7.237250" Z="6.470759" />
+        <BoundingCenter X="0.009178" Y="-0.007413" Z="-0.008140" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_big_w</Name>
+        <File>a3\rocks_f\water\stone_big_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>234854590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.241869</BBRadius>
+        <BBHScale>0.749465</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.403699</Height>
+        <BoundingMin X="-5.427527" Y="-3.673884" Z="-7.241869" />
+        <BoundingMax X="5.427527" Y="7.133514" Z="7.241869" />
+        <BoundingCenter X="0.000000" Y="1.729815" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_medium_w</Name>
+        <File>a3\rocks_f\water\stone_medium_w.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>470606215</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.619570</BBRadius>
+        <BBHScale>0.875960</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.757417</Height>
+        <BoundingMin X="-6.530556" Y="-1.385526" Z="-5.105041" />
+        <BoundingMax X="3.314483" Y="4.129308" Z="6.134099" />
+        <BoundingCenter X="-1.608037" Y="1.371891" Z="0.514529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_small_w</Name>
+        <File>a3\rocks_f\water\stone_small_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2028912059</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.435261</BBRadius>
+        <BBHScale>1.137022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.404797</Height>
+        <BoundingMin X="-2.873079" Y="-1.451477" Z="-2.658868" />
+        <BoundingMax X="2.664811" Y="1.358117" Z="2.211655" />
+        <BoundingCenter X="-0.104134" Y="-0.046680" Z="-0.223607" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharprock_apart</Name>
+        <File>a3\rocks_f\water\w_sharprock_apart.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1399740</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.844786</BBRadius>
+        <BBHScale>0.907119</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.574294</Height>
+        <BoundingMin X="-6.840096" Y="-1.985963" Z="-6.200741" />
+        <BoundingMax X="5.577975" Y="7.162625" Z="7.488831" />
+        <BoundingCenter X="-0.631061" Y="2.588331" Z="0.644045" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharprock_monolith</Name>
+        <File>a3\rocks_f\water\w_sharprock_monolith.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>435641804</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.309528</BBRadius>
+        <BBHScale>0.597076</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>9.954974</Height>
+        <BoundingMin X="-9.172892" Y="-3.145096" Z="-12.637444" />
+        <BoundingMax X="7.914864" Y="16.764853" Z="15.981613" />
+        <BoundingCenter X="-0.629014" Y="6.809878" Z="1.672085" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharprock_spike</Name>
+        <File>a3\rocks_f\water\w_sharprock_spike.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-895646706</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.908748</BBRadius>
+        <BBHScale>0.871433</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.158072</Height>
+        <BoundingMin X="-11.015932" Y="-7.055645" Z="-12.660873" />
+        <BoundingMax X="9.739416" Y="21.260498" Z="11.156622" />
+        <BoundingCenter X="-0.638258" Y="7.102427" Z="-0.752126" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharprock_wallh</Name>
+        <File>a3\rocks_f\water\w_sharprock_wallh.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>568587174</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.454536</BBRadius>
+        <BBHScale>0.370523</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>14.735138</Height>
+        <BoundingMin X="-14.284320" Y="-4.849334" Z="-32.068977" />
+        <BoundingMax X="11.989144" Y="24.620943" Z="38.840096" />
+        <BoundingCenter X="-1.147588" Y="9.885805" Z="3.385559" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharprock_wallv</Name>
+        <File>a3\rocks_f\water\w_sharprock_wallv.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>568587188</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.198587</BBRadius>
+        <BBHScale>1.010777</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>40.307285</Height>
+        <BoundingMin X="-20.736916" Y="-18.587265" Z="-20.517220" />
+        <BoundingMax X="22.117184" Y="62.027306" Z="21.879955" />
+        <BoundingCenter X="0.690134" Y="21.720020" Z="0.681368" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharpstones_erosion</Name>
+        <File>a3\rocks_f\water\w_sharpstones_erosion.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1075467720</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.268963</BBRadius>
+        <BBHScale>0.909727</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.695423</Height>
+        <BoundingMin X="-3.911824" Y="-0.728857" Z="-4.367854" />
+        <BoundingMax X="3.855361" Y="0.661990" Z="4.170072" />
+        <BoundingCenter X="-0.028232" Y="-0.033433" Z="-0.098891" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharpstone_01</Name>
+        <File>a3\rocks_f\water\w_sharpstone_01.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>367032317</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.595682</BBRadius>
+        <BBHScale>0.920864</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.075028</Height>
+        <BoundingMin X="-1.225511" Y="-0.743152" Z="-1.043213" />
+        <BoundingMax X="1.713302" Y="1.406904" Z="2.148152" />
+        <BoundingCenter X="0.243895" Y="0.331876" Z="0.552469" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharpstone_02</Name>
+        <File>a3\rocks_f\water\w_sharpstone_02.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>367032318</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.785421</BBRadius>
+        <BBHScale>1.109286</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.408535</Height>
+        <BoundingMin X="-2.445257" Y="-1.166168" Z="-1.608428" />
+        <BoundingMax X="1.515830" Y="1.650902" Z="1.962414" />
+        <BoundingCenter X="-0.464714" Y="0.242367" Z="0.176993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>w_sharpstone_03</Name>
+        <File>a3\rocks_f\water\w_sharpstone_03.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>367032319</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.883351</BBRadius>
+        <BBHScale>1.022715</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.009717</Height>
+        <BoundingMin X="-0.863822" Y="-0.852612" Z="-0.496927" />
+        <BoundingMax X="0.943011" Y="1.166823" Z="1.269776" />
+        <BoundingCenter X="0.039594" Y="0.157106" Z="0.386425" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>decal_crater</Name>
+        <File>a3\rocks_f\decal_crater.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>482812833</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-20.000004" Y="0.000000" Z="-20.000000" />
+        <BoundingMax X="20.000000" Y="0.000000" Z="20.000000" />
+        <BoundingCenter X="-0.000002" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>decal_rock_dark</Name>
+        <File>a3\rocks_f\decal_rock_dark.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1093417886</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.000000</BBRadius>
+        <BBHScale>1.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.000000" Y="0.000000" Z="-10.000000" />
+        <BoundingMax X="15.000000" Y="0.000000" Z="10.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>decal_rock_layers</Name>
+        <File>a3\rocks_f\decal_rock_layers.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1155740854</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.000000</BBRadius>
+        <BBHScale>1.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.000000" Y="0.000000" Z="-10.000000" />
+        <BoundingMax X="15.000000" Y="0.000000" Z="10.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>small_stone_01_f</Name>
+        <File>a3\rocks_f\small_stone_01_f.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>519499514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.698160</BBRadius>
+        <BBHScale>1.151302</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.913026</Height>
+        <BoundingMin X="-1.990741" Y="-0.989758" Z="-1.866960" />
+        <BoundingMax X="1.919450" Y="0.836295" Z="1.529361" />
+        <BoundingCenter X="-0.035645" Y="-0.076731" Z="-0.168800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>small_stone_02_f</Name>
+        <File>a3\rocks_f\small_stone_02_f.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>527761019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.780359</BBRadius>
+        <BBHScale>1.064751</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.566584</Height>
+        <BoundingMin X="-1.074091" Y="-0.529272" Z="-0.933761" />
+        <BoundingMax X="0.587684" Y="0.603895" Z="0.626957" />
+        <BoundingCenter X="-0.243204" Y="0.037312" Z="-0.153402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_big</Name>
+        <File>a3\rocks_f\stonesharp_big.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>519624902</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.429620</BBRadius>
+        <BBHScale>1.122866</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.058510</Height>
+        <BoundingMin X="-8.442941" Y="-6.616670" Z="-7.252620" />
+        <BoundingMax X="8.242000" Y="7.500350" Z="7.606620" />
+        <BoundingCenter X="-0.100471" Y="0.441840" Z="0.177000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_medium</Name>
+        <File>a3\rocks_f\stonesharp_medium.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-465939377</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.267979</BBRadius>
+        <BBHScale>0.949997</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.804823</Height>
+        <BoundingMin X="-5.181588" Y="-3.829628" Z="-5.383751" />
+        <BoundingMax X="4.827544" Y="7.780019" Z="5.152206" />
+        <BoundingCenter X="-0.177022" Y="1.975196" Z="-0.115772" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_small</Name>
+        <File>a3\rocks_f\stonesharp_small.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>466757069</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.963655</BBRadius>
+        <BBHScale>1.161372</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.392524</Height>
+        <BoundingMin X="-5.294690" Y="-2.348774" Z="-3.975560" />
+        <BoundingMax X="3.911865" Y="2.436273" Z="3.951749" />
+        <BoundingCenter X="-0.691412" Y="0.043749" Z="-0.011905" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_wall</Name>
+        <File>a3\rocks_f\stonesharp_wall.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1160183300</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.478899</BBRadius>
+        <BBHScale>2.060480</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.244663</Height>
+        <BoundingMin X="-13.340466" Y="-7.252077" Z="-6.487039" />
+        <BoundingMax X="13.358822" Y="7.237250" Z="6.470759" />
+        <BoundingCenter X="0.009178" Y="-0.007413" Z="-0.008140" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_big_f</Name>
+        <File>a3\rocks_f\stone_big_f.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>234854573</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.241869</BBRadius>
+        <BBHScale>0.749465</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.403699</Height>
+        <BoundingMin X="-5.427527" Y="-3.673884" Z="-7.241869" />
+        <BoundingMax X="5.427527" Y="7.133514" Z="7.241869" />
+        <BoundingCenter X="0.000000" Y="1.729815" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_medium_f</Name>
+        <File>a3\rocks_f\stone_medium_f.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>470606198</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.619570</BBRadius>
+        <BBHScale>0.875960</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.757417</Height>
+        <BoundingMin X="-6.530556" Y="-1.385526" Z="-5.105041" />
+        <BoundingMax X="3.314483" Y="4.129308" Z="6.134099" />
+        <BoundingCenter X="-1.608037" Y="1.371891" Z="0.514529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_small_f</Name>
+        <File>a3\rocks_f\stone_small_f.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2028912076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.435261</BBRadius>
+        <BBHScale>1.137022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.404797</Height>
+        <BoundingMin X="-2.873079" Y="-1.451477" Z="-2.658868" />
+        <BoundingMax X="2.664811" Y="1.358117" Z="2.211655" />
+        <BoundingCenter X="-0.104134" Y="-0.046680" Z="-0.223607" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_apart_1</Name>
+        <File>a3\rocks_f\sharprock_apart.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1656503452</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.574633</BBRadius>
+        <BBHScale>0.896757</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.212537</Height>
+        <BoundingMin X="-6.239355" Y="-1.599555" Z="-5.912624" />
+        <BoundingMax X="5.552347" Y="6.825519" Z="7.236641" />
+        <BoundingCenter X="-0.343504" Y="2.612982" Z="0.662008" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_monolith_1</Name>
+        <File>a3\rocks_f\sharprock_monolith.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2051066844</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.481827</BBRadius>
+        <BBHScale>0.575230</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>10.024700</Height>
+        <BoundingMin X="-8.288300" Y="-3.102591" Z="-11.849438" />
+        <BoundingMax X="7.222006" Y="16.946810" Z="15.114216" />
+        <BoundingCenter X="-0.533147" Y="6.922110" Z="1.632389" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_spike_1</Name>
+        <File>a3\rocks_f\sharprock_spike.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1741417398</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.842741</BBRadius>
+        <BBHScale>0.878249</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>12.625973</Height>
+        <BoundingMin X="-9.719275" Y="-5.887591" Z="-11.852118" />
+        <BoundingMax X="9.325972" Y="19.364355" Z="9.833364" />
+        <BoundingCenter X="-0.196651" Y="6.738382" Z="-1.009377" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_wallh_1</Name>
+        <File>a3\rocks_f\sharprock_wallh.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1089316018</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>34.164886</BBRadius>
+        <BBHScale>0.366175</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>13.762261</Height>
+        <BoundingMin X="-13.968193" Y="-4.260830" Z="-31.172508" />
+        <BoundingMax X="11.052467" Y="23.263693" Z="37.157265" />
+        <BoundingCenter X="-1.457863" Y="9.501431" Z="2.992378" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharprock_wallv_1</Name>
+        <File>a3\rocks_f\sharprock_wallv.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1089316004</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.963619</BBRadius>
+        <BBHScale>0.900713</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>33.328259</Height>
+        <BoundingMin X="-19.182955" Y="-12.335075" Z="-19.979477" />
+        <BoundingMax X="18.581472" Y="54.321442" Z="21.947762" />
+        <BoundingCenter X="-0.300741" Y="20.993183" Z="0.984142" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstones_erosion_1</Name>
+        <File>a3\rocks_f\sharpstones_erosion.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1667230352</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.943183</BBRadius>
+        <BBHScale>0.911226</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.644395</Height>
+        <BoundingMin X="-3.535983" Y="-0.604350" Z="-3.896156" />
+        <BoundingMax X="3.650278" Y="0.684440" Z="3.990211" />
+        <BoundingCenter X="0.057148" Y="0.040045" Z="0.047027" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_01_1</Name>
+        <File>a3\rocks_f\sharpstone_01.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193082277</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.465876</BBRadius>
+        <BBHScale>0.765811</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.719079</Height>
+        <BoundingMin X="-1.021927" Y="-0.461277" Z="-0.801351" />
+        <BoundingMax X="1.223240" Y="0.976882" Z="2.130401" />
+        <BoundingCenter X="0.100657" Y="0.257802" Z="0.664525" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_02_1</Name>
+        <File>a3\rocks_f\sharpstone_02.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193082278</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.286995</BBRadius>
+        <BBHScale>0.921897</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.788764</Height>
+        <BoundingMin X="-1.357684" Y="-1.075065" Z="-1.328223" />
+        <BoundingMax X="1.015270" Y="2.502464" Z="1.245766" />
+        <BoundingCenter X="-0.171207" Y="0.713700" Z="-0.041229" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sharpstone_03_1</Name>
+        <File>a3\rocks_f\sharpstone_03.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>193082279</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.858327</BBRadius>
+        <BBHScale>0.680536</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.937850</Height>
+        <BoundingMin X="-0.466693" Y="-0.707818" Z="-0.614104" />
+        <BoundingMax X="0.701552" Y="1.167882" Z="1.102549" />
+        <BoundingCenter X="0.117429" Y="0.230032" Z="0.244222" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_big_w_1</Name>
+        <File>a3\rocks_f\stonesharp_big_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-504631906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.429620</BBRadius>
+        <BBHScale>1.122866</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.058510</Height>
+        <BoundingMin X="-8.442941" Y="-6.616670" Z="-7.252620" />
+        <BoundingMax X="8.242000" Y="7.500350" Z="7.606620" />
+        <BoundingCenter X="-0.100471" Y="0.441840" Z="0.177000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_medium_w_1</Name>
+        <File>a3\rocks_f\stonesharp_medium_w.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-342477657</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.267979</BBRadius>
+        <BBHScale>0.949997</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.804823</Height>
+        <BoundingMin X="-5.181588" Y="-3.829628" Z="-5.383751" />
+        <BoundingMax X="4.827544" Y="7.780019" Z="5.152206" />
+        <BoundingCenter X="-0.177022" Y="1.975196" Z="-0.115772" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_small_w_1</Name>
+        <File>a3\rocks_f\stonesharp_small_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-262068443</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.963655</BBRadius>
+        <BBHScale>1.161372</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.392524</Height>
+        <BoundingMin X="-5.294690" Y="-2.348774" Z="-3.975560" />
+        <BoundingMax X="3.911865" Y="2.436273" Z="3.951749" />
+        <BoundingCenter X="-0.691412" Y="0.043749" Z="-0.011905" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stonesharp_wall_w_1</Name>
+        <File>a3\rocks_f\stonesharp_wall_w.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>668947420</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.478899</BBRadius>
+        <BBHScale>2.060480</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>7.244663</Height>
+        <BoundingMin X="-13.340466" Y="-7.252077" Z="-6.487039" />
+        <BoundingMax X="13.358822" Y="7.237250" Z="6.470759" />
+        <BoundingCenter X="0.009178" Y="-0.007413" Z="-0.008140" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_big_w_1</Name>
+        <File>a3\rocks_f\stone_big_w.p3d</File>
+        <Date>02/06/22 04:14:48</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>234854590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.241869</BBRadius>
+        <BBHScale>0.749465</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.403699</Height>
+        <BoundingMin X="-5.427527" Y="-3.673884" Z="-7.241869" />
+        <BoundingMax X="5.427527" Y="7.133514" Z="7.241869" />
+        <BoundingCenter X="0.000000" Y="1.729815" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_medium_w_1</Name>
+        <File>a3\rocks_f\stone_medium_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>470606215</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.619570</BBRadius>
+        <BBHScale>0.875960</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.757417</Height>
+        <BoundingMin X="-6.530556" Y="-1.385526" Z="-5.105041" />
+        <BoundingMax X="3.314483" Y="4.129308" Z="6.134099" />
+        <BoundingCenter X="-1.608037" Y="1.371891" Z="0.514529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>stone_small_w_1</Name>
+        <File>a3\rocks_f\stone_small_w.p3d</File>
+        <Date>02/06/22 04:14:49</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2028912059</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.435261</BBRadius>
+        <BBHScale>1.137022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.404797</Height>
+        <BoundingMin X="-2.873079" Y="-1.451477" Z="-2.658868" />
+        <BoundingMax X="2.664811" Y="1.358117" Z="2.211655" />
+        <BoundingCenter X="-0.104134" Y="-0.046680" Z="-0.223607" />
+        <Placement></Placement>
+    </Template>
+</Library>
