@@ -1,5 +1,7 @@
 R, G, B, Climate, Land type
-236, 230, 149, "Desert", "Deep desert",
-226, 207, 129, "Desert", "Desert rocks (3)",
-196, 177, 121, "Desert", "Desert cliffs",
-181, 158, 111, "Desert", "Desert cliffs (2)",
+255, 255, 255, "Arctic", "snow",
+180, 180, 180, "Arctic", "cliffs",
+170, 170, 170, "Arctic", "cliffs (2)",
+160, 160, 160, "Arctic", "cliffs (3)",
+175, 160, 130, "Arctic", "pebbles",
+80, 80, 80, "Arctic", "rock (u/w)",

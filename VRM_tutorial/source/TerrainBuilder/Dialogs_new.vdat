@@ -1,11 +1,11 @@
 
 
 dtExportWRP
-P:\VRM\VRM_tutorial\VRM_tutorial_terrain.wrp
+P:\VRM\VRM_tutorial\vrm_tutorial_terrain.wrp
 dtSatteliteImageImportJPG
 vrm\vrm_tutorial\source
-dtTemplatesImportTML
-P:\VRM\TemplateLibs\a3 structures.tml
+dtSatteliteNormalMapImport
+vrm\vrm_tutorial\source
 dtTerrainHeightmapImportJPG
 vrm\vrm_tutorial\source
 dtTerrainSurfaceImportJPG

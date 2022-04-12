@@ -68,8 +68,8 @@ class CfgWorlds {
 			};
 		};
 
-		startTime = 16:45; //Start time (military time)
-		startDate = 17/11/2006; //Start date when terrain is loaded without a date preset (e.g. loading into editor)
+		startTime = 08:00; //Start time (military time)
+		startDate = 01/01/2022; //Start date when terrain is loaded without a date preset (e.g. loading into editor)
 		startWeather = 0.12;
 		startFog = 0.0;
 
@@ -797,7 +797,7 @@ class CfgWorlds {
 		terrainBlendMaxDarkenCoef = 1.0f;
 		/// maximal brightening coef for blending of satellite map and detail map on terrain (default = 1.0f, no brightening = 0.0f)
 		terrainBlendMaxBrightenCoef = 0.0f;
-		
+
 		/// if we should use interpolation of clutter coloring coef based on distance of clutter from camera
 		interpolateClutterColoring = false;
 		/// max coef for clutter coloring at far distance (must be >=1, large coef means we can colorize more)
